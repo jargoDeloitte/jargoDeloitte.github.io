@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.deloitte.dd.smartstart",
+    "sha256_cert_fingerprints":
+    ["74:2A:CA:1E:8A:1D:B3:C9:78:4A:07:D0:66:83:79:A3:6D:CE:D7:BD:04:23:D8:B5:FE:5D:4E:A7:06:F2:75:99"]
+  }
+}]
